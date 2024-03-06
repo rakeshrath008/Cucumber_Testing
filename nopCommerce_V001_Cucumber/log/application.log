@@ -1,0 +1,55 @@
+2023-12-29 15:27:37,657 [main] INFO nopCommerce_V001_Cucumber - *********Launching browser*************
+2023-12-29 15:27:37,824 [main] INFO nopCommerce_V001_Cucumber - *********Opening URL*************
+2023-12-29 15:27:39,840 [main] INFO nopCommerce_V001_Cucumber - *********Providing login details*************
+2023-12-29 15:27:40,207 [main] INFO nopCommerce_V001_Cucumber - *********Started login*************
+2023-12-29 15:27:53,373 [main] INFO nopCommerce_V001_Cucumber - **********Adding new customer*************
+2023-12-29 15:27:53,374 [main] INFO nopCommerce_V001_Cucumber - **********Providing customer details*************
+2023-12-29 15:27:56,365 [main] INFO nopCommerce_V001_Cucumber - *********Launching browser*************
+2023-12-29 15:27:56,617 [main] INFO nopCommerce_V001_Cucumber - *********Opening URL*************
+2023-12-29 15:28:00,162 [main] INFO nopCommerce_V001_Cucumber - *********Providing login details*************
+2023-12-29 15:28:00,402 [main] INFO nopCommerce_V001_Cucumber - *********Started login*************
+2023-12-29 15:28:07,066 [main] INFO nopCommerce_V001_Cucumber - **********Searching customer by email id*************
+2023-12-29 15:28:11,147 [main] INFO nopCommerce_V001_Cucumber - *********Closing browser*************
+2023-12-29 15:28:12,912 [main] INFO nopCommerce_V001_Cucumber - *********Launching browser*************
+2023-12-29 15:28:13,035 [main] INFO nopCommerce_V001_Cucumber - *********Opening URL*************
+2023-12-29 15:28:14,838 [main] INFO nopCommerce_V001_Cucumber - *********Providing login details*************
+2023-12-29 15:28:15,326 [main] INFO nopCommerce_V001_Cucumber - *********Started login*************
+2023-12-29 15:28:21,461 [main] INFO nopCommerce_V001_Cucumber - **********Searching customer by name*************
+2023-12-29 15:28:25,558 [main] INFO nopCommerce_V001_Cucumber - *********Closing browser*************
+2023-12-29 15:46:36,225 [main] INFO nopCommerce_V001_Cucumber - *********Launching browser*************
+2023-12-29 15:46:36,282 [main] INFO nopCommerce_V001_Cucumber - *********Opening URL*************
+2023-12-29 15:46:39,037 [main] INFO nopCommerce_V001_Cucumber - *********Providing login details*************
+2023-12-29 15:46:39,860 [main] INFO nopCommerce_V001_Cucumber - *********Started login*************
+2023-12-29 15:46:50,339 [main] INFO nopCommerce_V001_Cucumber - **********Adding new customer*************
+2023-12-29 15:46:50,340 [main] INFO nopCommerce_V001_Cucumber - **********Providing customer details*************
+2023-12-29 15:46:54,901 [main] INFO nopCommerce_V001_Cucumber - *********Launching browser*************
+2023-12-29 15:46:54,910 [main] INFO nopCommerce_V001_Cucumber - *********Opening URL*************
+2023-12-29 15:46:56,999 [main] INFO nopCommerce_V001_Cucumber - *********Providing login details*************
+2023-12-29 15:46:57,144 [main] INFO nopCommerce_V001_Cucumber - *********Started login*************
+2023-12-29 15:47:02,881 [main] INFO nopCommerce_V001_Cucumber - **********Searching customer by email id*************
+2023-12-29 15:47:07,720 [main] INFO nopCommerce_V001_Cucumber - *********Closing browser*************
+2023-12-29 15:47:14,129 [main] INFO nopCommerce_V001_Cucumber - *********Launching browser*************
+2023-12-29 15:47:14,143 [main] INFO nopCommerce_V001_Cucumber - *********Opening URL*************
+2023-12-29 15:47:15,940 [main] INFO nopCommerce_V001_Cucumber - *********Providing login details*************
+2023-12-29 15:47:16,041 [main] INFO nopCommerce_V001_Cucumber - *********Started login*************
+2023-12-29 15:47:20,545 [main] INFO nopCommerce_V001_Cucumber - **********Searching customer by name*************
+2023-12-29 15:48:31,079 [main] INFO nopCommerce_V001_Cucumber - *********Launching browser*************
+2023-12-29 15:48:31,250 [main] INFO nopCommerce_V001_Cucumber - *********Opening URL*************
+2023-12-29 15:48:34,578 [main] INFO nopCommerce_V001_Cucumber - *********Providing login details*************
+2023-12-29 15:48:35,039 [main] INFO nopCommerce_V001_Cucumber - *********Started login*************
+2023-12-29 15:48:46,235 [main] INFO nopCommerce_V001_Cucumber - **********Adding new customer*************
+2023-12-29 15:48:46,237 [main] INFO nopCommerce_V001_Cucumber - **********Providing customer details*************
+2023-12-29 15:48:53,940 [main] INFO nopCommerce_V001_Cucumber - **********Saving customer data*************
+2023-12-29 15:48:57,510 [main] INFO nopCommerce_V001_Cucumber - *********Closing browser*************
+2023-12-29 15:48:59,185 [main] INFO nopCommerce_V001_Cucumber - *********Launching browser*************
+2023-12-29 15:48:59,313 [main] INFO nopCommerce_V001_Cucumber - *********Opening URL*************
+2023-12-29 15:49:03,520 [main] INFO nopCommerce_V001_Cucumber - *********Providing login details*************
+2023-12-29 15:49:03,771 [main] INFO nopCommerce_V001_Cucumber - *********Started login*************
+2023-12-29 15:49:09,165 [main] INFO nopCommerce_V001_Cucumber - **********Searching customer by email id*************
+2023-12-29 15:49:13,142 [main] INFO nopCommerce_V001_Cucumber - *********Closing browser*************
+2023-12-29 15:49:14,817 [main] INFO nopCommerce_V001_Cucumber - *********Launching browser*************
+2023-12-29 15:49:14,952 [main] INFO nopCommerce_V001_Cucumber - *********Opening URL*************
+2023-12-29 15:49:18,813 [main] INFO nopCommerce_V001_Cucumber - *********Providing login details*************
+2023-12-29 15:49:19,056 [main] INFO nopCommerce_V001_Cucumber - *********Started login*************
+2023-12-29 15:49:25,152 [main] INFO nopCommerce_V001_Cucumber - **********Searching customer by name*************
+2023-12-29 15:49:29,204 [main] INFO nopCommerce_V001_Cucumber - *********Closing browser*************
